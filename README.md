@@ -1,6 +1,6 @@
 # Portfolio Website
 An Advanced Responsive Portfolio Website.
-Here's the link to my awesome [website](Solobarine.github.io)
+Here's the link to my awesome [website](http://Solobarine.github.io)
 ## Built With
 * HTML
 * CSS
